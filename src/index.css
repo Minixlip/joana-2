@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bcBlack: #1b1a17;
+  --bcLightBlack: #1f1e1b;
+  --bcDarkGold: #a35709;
+  --bcGold: #ff8303;
+  --bcWhite: #f0e3ca;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-repeat: no-repeat;
+  color: white;
+  overflow-x: hidden;
+  background-size: cover;
+  font-family: 'PT Serif', serif;
+}
+
+.section {
+  @apply py-8 lg:py-24 lg:h-screen flex items-start;
+}
+
+button {
+  transition: 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+ul li a {
+  transition: 0.3s ease-in-out;
+}
+
+ul li a:hover {
+  color: #ff8303;
+}
