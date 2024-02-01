@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/joana-2/static/css/main.3abfecdb.css",
+    "main.js": "/joana-2/static/js/main.9eb43197.js",
+    "static/media/bgvideo.mp4": "/joana-2/static/media/bgvideo.14caf124b350a514f372.mp4",
+    "index.html": "/joana-2/index.html",
+    "main.3abfecdb.css.map": "/joana-2/static/css/main.3abfecdb.css.map",
+    "main.9eb43197.js.map": "/joana-2/static/js/main.9eb43197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3abfecdb.css",
+    "static/js/main.9eb43197.js"
+  ]
+}
